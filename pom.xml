@@ -12,6 +12,13 @@
         <maven.compiler.source>22</maven.compiler.source>
         <maven.compiler.target>22</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+        <java.version>17</java.version>
+        <spring.boot.version>3.1.0</spring.boot.version>
+        <kotlin.version>1.8.0</kotlin.version>
+        <ktor.version>2.3.1</ktor.version>
+        <reactor.version>3.4.23</reactor.version>
     </properties>
+
 
 </project>

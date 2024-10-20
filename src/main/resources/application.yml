@@ -1,0 +1,11 @@
+executor:
+  fixed:
+    pool-size: 10
+  scheduled:
+    pool-size: 5
+data:
+  init:
+    delay: 5m
+api:
+  request:
+    limit: 5
